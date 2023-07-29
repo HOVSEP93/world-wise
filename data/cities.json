@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2023-07-25T08:03:22.285Z",
+      "notes": "Here We Go!",
+      "position": {
+        "lat": "-33.86129311351552",
+        "lng": "151.18286132812503"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-07-25T08:04:45.432Z",
+      "notes": "Chelsea FOREVER",
+      "position": {
+        "lat": "51.51173391474148",
+        "lng": "-0.09647369384765626"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Baghdad",
+      "country": "Iraq",
+      "emoji": "🇮🇶",
+      "date": "2023-07-29T16:42:43.951Z",
+      "notes": "my hometown",
+      "position": {
+        "lat": "33.32794654986781",
+        "lng": "44.42699432373047"
+      },
+      "id": 98443200
+    }
+  ]
+}
