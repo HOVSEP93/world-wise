@@ -45,7 +45,7 @@ Start the server
 
 ## Acknowledgements
 
-This my finished World Wise App ✈️ PART- 3 Challenge - 1 based on A Ultimate React Course by Jonas Schmedtmann
+This my finished World Wise App ✈️ PART- 3  based on A Ultimate React Course by Jonas Schmedtmann
 As the description suggests, the original design was done by Jonas Schmedtmann and was part of a Ultimate React Course which I highly recommend. https://www.udemy.com/course/the-ultimate-react-course/
 
 ## License
